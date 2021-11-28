@@ -1,0 +1,2 @@
+# telepay
+An application for telepay Customer  MytelPay is a super app designed to offer a boutique of services to bring convenience into your everyday life.   YOU ARE ONLY A "TOUCH" AWAY 1. Cash in for your account free 2. Transfer account-account, account- non account easy 3. Top up your mobile phone, buy pincode with high discount 4. Pay electronic/water too quickly 5. Cash out easily with find store function, conveniently help you see the store's balance 
